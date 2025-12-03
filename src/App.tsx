@@ -96,7 +96,7 @@ const App: React.FC = () => {
                             <>
                                 <Upload className="w-10 h-10 mb-3 text-blue-500" />
                                 <p className="mb-2 text-sm text-slate-300"><span className="font-semibold text-blue-400">Bấm để chọn file</span> hoặc kéo thả</p>
-                                <p className="text-xs text-slate-500">XLSX, XLS (Theo cấu trúc ID -> Data)</p>
+                                <p className="text-xs text-slate-500">XLSX, XLS (Theo cấu trúc ID → Data)</p>
                             </>
                         )}
                     </div>
